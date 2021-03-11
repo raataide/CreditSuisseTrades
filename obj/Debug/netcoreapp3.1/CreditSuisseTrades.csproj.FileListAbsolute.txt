@@ -1,0 +1,13 @@
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.exe
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.deps.json
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.runtimeconfig.json
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.runtimeconfig.dev.json
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.dll
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\bin\Debug\netcoreapp3.1\CreditSuisseTrades.pdb
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.csprojAssemblyReference.cache
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.AssemblyInfoInputs.cache
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.AssemblyInfo.cs
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.csproj.CoreCompileInputs.cache
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.dll
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.pdb
+C:\Users\Altran\Documents\Projetos\CreditSuisseTrades\CreditSuisseTrades\obj\Debug\netcoreapp3.1\CreditSuisseTrades.genruntimeconfig.cache
