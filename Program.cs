@@ -137,7 +137,7 @@ namespace CreditSuisseTrades
                 }
                 if ((int)trade.NextPaymentDate.Subtract(referenceDate).TotalDays < 30)
                 {
-                    Console.WriteLine("DEFAULTED");
+                    Console.WriteLine(ENUMCATEGORIES.DEFAULTED);
                 }
                 else
                 {
@@ -145,11 +145,11 @@ namespace CreditSuisseTrades
                     {
                         if (trade.ClientSector.ToLower() == "private")
                         {
-                            Console.Write("HIGHRISK");
+                            Console.WriteLine(ENUMCATEGORIES.HIGHRISK);
                         }
                         else
                         {
-                            Console.Write("MEDIUMRISK");
+                            Console.WriteLine(ENUMCATEGORIES.MEDIUMRISK);
                         }
                     }
                     else
